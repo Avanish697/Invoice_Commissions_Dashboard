@@ -1,5 +1,6 @@
 dash
 dash_auth
+dash_table
 dash-bootstrap-components
 pandas
 plotly
